@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+**/*.ipynb_checkpoints/
 # Environments
 .env
 .venv
@@ -8,4 +9,4 @@ ENV/
 env.bak/
 venv.bak/
 myenv/
-/.ipynb_checkpoints
+*/.ipynb_checkpoints
