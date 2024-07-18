@@ -10,3 +10,5 @@ env.bak/
 venv.bak/
 myenv/
 */.ipynb_checkpoints
+.ipynb_checkpoints/240612_PLANT POWER Post-checkpoint.ipynb
+/.ipynb_checkpoints
